@@ -3,6 +3,8 @@ fitert is a collection of functional transformers for iterators presented in go 
 
 **fitert** stands for _"**f**unctional **iter** **t**ransformations"_
 
+[![Build & Test](https://github.com/iizudev/fitert/actions/workflows/go.yml/badge.svg)](https://github.com/iizudev/fitert/actions/workflows/go.yml)
+
 ## Example
 Here is a short example of what this library looks like in action
 ```go
